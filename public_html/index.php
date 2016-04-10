@@ -14,7 +14,7 @@ if (isset($_SESSION['loggedin'])) {
 }
 ?>
 
-<div class="content">
+<div class="site-container">
     <div class="pure-g">
         <div class="pure-menu pure-menu-horizontal pure-u-1">
             <ul class="pure-menu-list">
@@ -24,7 +24,9 @@ if (isset($_SESSION['loggedin'])) {
         </div>
 
         <h4 class="pure-u-1">Welkom op het intranet van 'Bedrijf'</h4>
-        <p class="pure-u-1">Log in met de knop hierboven of neem contact op met de servicedesk via het contact formulier</p>
+
+        <p class="pure-u-1">Log in met de knop hierboven of neem contact op met de servicedesk via het contact
+            formulier</p>
 
         <?php
         //

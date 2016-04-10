@@ -14,7 +14,7 @@ if (!isset($_SESSION['loggedin'])) {
 }
 ?>
 
-<div class="content">
+<div class="site-container">
     <div class="pure-menu pure-menu-horizontal">
         <ul class="pure-menu-list">
             <li class="pure-menu-item"><a href="tasks.php" class="pure-menu-link pure-menu-selected">Taken</a></li>
@@ -24,15 +24,16 @@ if (!isset($_SESSION['loggedin'])) {
         </ul>
     </div>
 
-    <div class="pure-g">
-        <div class="pure-u-4-5">
-            <form class="pure-form" action="postForm.php" method="post">
-                <TextArea name="microBlog" id="microBlog" rows="10"></TextArea>
-                </br>
-                <input type="submit" class="pure-button">
-            </form>
-        </div>
-    </div>
+
+    <!--    <div class="pure-g">-->
+    <!--        <div class="pure-u-4-5">-->
+    <!--            <form class="pure-form" action="postForm.php" method="post">-->
+    <!--                <TextArea name="microBlog" id="microBlog" rows="10"></TextArea>-->
+    <!--                </br>-->
+    <!--                <input type="submit" class="pure-button">-->
+    <!--            </form>-->
+    <!--        </div>-->
+    <!--    </div>-->
 
     <?php
     //    if (isset($_SESSION['loggedin'])) {

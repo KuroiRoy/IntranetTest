@@ -14,7 +14,7 @@ if (!isset($_SESSION['loggedin'])) {
 }
 ?>
 
-<div class="content">
+<div class="site-container">
     <div class="pure-menu pure-menu-horizontal">
         <ul class="pure-menu-list">
             <li class="pure-menu-item"><a href="tasks.php" class="pure-menu-link">Taken</a></li>

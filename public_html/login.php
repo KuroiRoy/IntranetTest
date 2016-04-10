@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-<div class="content">
+<div class="site-container">
     <div class="pure-g">
         <div class="pure-menu pure-menu-horizontal pure-u-1">
             <ul class="pure-menu-list">
@@ -24,10 +24,12 @@
                 <label for="username">Gebruikersnaam:</label>
                 <input type="text" name="username" id="username">
             </p>
+
             <p>
                 <label for="password">Wachtwoord:</label>
                 <input type="password" name="password" id="password">
             </p>
+
             <p>
                 <a></a>
                 <a class="pure-button" href="index.php">Annuleren</a>

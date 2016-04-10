@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-<div class="content contact">
+<div class="site-container contact">
     <h2>Contact formulier</h2>
 
     <form class="pure-form contact-form" action="contactForm.php" method="post">
@@ -16,14 +16,17 @@
             <label for="name">Naam:</label>
             <input type="text" name="username" id="username">
         </p>
+
         <p>
             <label for="email">Emailadres:</label>
             <input type="text" name="email" id="email">
         </p>
+
         <p>
             <label></label>
             <TextArea class="message" name="message" id="message" cols="50" rows="10"></TextArea>
         </p>
+
         <p>
             <a></a>
             <a class="pure-button" href="index.php">Annuleren</a>
