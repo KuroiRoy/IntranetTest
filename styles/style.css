@@ -1,0 +1,59 @@
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 768px;
+}
+
+.contact {
+    max-width: 500px;
+}
+
+form {
+    display: table;
+}
+
+form p {
+    display: table-row;
+}
+
+form a {
+    display: table-cell;
+}
+
+form label {
+    display: table-cell;
+}
+
+form input {
+    margin-top: 5px;
+    display: table-cell;
+}
+
+form textarea {
+    display: table-caption;
+    margin-top: 5px;
+}
+
+form .pure-button {
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.pure-menu {
+    padding-bottom: 50px;
+    font-size: large;
+}
+
+.pure-menu-list {
+    float: right;
+}
+
+.pure-menu-selected {
+    font-weight: bold;
+    outline: auto;
+}
+
+.contact-form textarea {
+    width: 100%;
+}
