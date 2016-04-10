@@ -2,8 +2,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" type="text/css" href="styles/pure/pure-min.css">
-    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" type="text/css" href="library/pure-min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
     <meta charset="UTF-8">
     <title>Taken</title>
 </head>

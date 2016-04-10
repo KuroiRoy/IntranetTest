@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <title>Contact</title>
-    <link rel="stylesheet" type="text/css" href="styles/pure/pure-min.css">
-    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" type="text/css" href="library/pure-min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 <div class="content contact">

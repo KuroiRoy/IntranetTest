@@ -25,65 +25,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public_html/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="969">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.61409795" vertical-offset="132" max-vertical-offset="969">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
               <folding>
-                <marker date="1460283129201" expanded="true" signature="1120:1352" placeholder="..." />
-                <marker date="1460283129201" expanded="true" signature="1587:1613" placeholder="SELECT post ..MicroBlog..." />
+                <marker date="1460294688785" expanded="true" signature="1113:1345" placeholder="..." />
+                <marker date="1460294688785" expanded="true" signature="1588:1614" placeholder="SELECT post ..MicroBlog..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="tasks.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tasks.php">
+        <entry file="file://$PROJECT_DIR$/public_html/tasks.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1054">
+            <state vertical-scroll-proportion="-6.0384617" vertical-offset="217" max-vertical-offset="1054">
               <caret line="22" column="92" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
               <folding>
-                <element signature="e#1262#1303#0#PHP" expanded="true" />
-                <marker date="1460292577293" expanded="true" signature="1383:1599" placeholder="..." />
-                <marker date="1460292577293" expanded="true" signature="1806:1832" placeholder="SELECT post ..MicroBlog..." />
+                <element signature="e#1255#1296#0#PHP" expanded="true" />
+                <marker date="1460294538323" expanded="true" signature="1376:1592" placeholder="..." />
+                <marker date="1460294538323" expanded="true" signature="1799:1825" placeholder="SELECT post ..MicroBlog..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="reports.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reports.php">
+        <entry file="file://$PROJECT_DIR$/public_html/reports.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="561">
-              <caret line="7" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+            <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="561">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chat.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chat.php">
+      <file leaf-file-name="chat.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/chat.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46714458" vertical-offset="0" max-vertical-offset="837">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="561">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="postForm.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/postForm.php">
+        <entry file="file://$PROJECT_DIR$/public_html/postForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="408">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="408">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.php">
+        <entry file="file://$PROJECT_DIR$/public_html/login.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="765">
               <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
@@ -93,19 +93,19 @@
         </entry>
       </file>
       <file leaf-file-name="loginForm.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/loginForm.php">
+        <entry file="file://$PROJECT_DIR$/public_html/loginForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="476">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="476">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
-                <marker date="1460279144726" expanded="true" signature="217:262" placeholder="SELECT * FRO..Credentials..." />
+                <marker date="1460294656095" expanded="true" signature="225:270" placeholder="SELECT * FRO..Credentials..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/style.css">
+        <entry file="file://$PROJECT_DIR$/public_html/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1105">
               <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
@@ -138,13 +138,17 @@
         <option value="$PROJECT_DIR$/tasks.php" />
         <option value="$PROJECT_DIR$/reports.php" />
         <option value="$PROJECT_DIR$/chat.php" />
+        <option value="$PROJECT_DIR$/public_html/chat.php" />
+        <option value="$PROJECT_DIR$/public_html/loginForm.php" />
+        <option value="$PROJECT_DIR$/public_html/postForm.php" />
+        <option value="$PROJECT_DIR$/public_html/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="135" />
-    <option name="y" value="22" />
+    <option name="x" value="237" />
+    <option name="y" value="8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -203,7 +207,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
+              <option name="myItemId" value="public_html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,6 +225,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\PHP\IntranetTest\public_html" />
+      <recent name="C:\Projects\PHP\IntranetTest\library" />
       <recent name="C:\xampp\htdocs\styles" />
     </key>
   </component>
@@ -263,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="22" width="1400" height="1000" extended-state="0" />
+    <frame x="237" y="8" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -308,30 +314,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/public_html/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="969">
           <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
           <folding>
-            <marker date="1460283129201" expanded="true" signature="1120:1352" placeholder="..." />
-            <marker date="1460283129201" expanded="true" signature="1587:1613" placeholder="SELECT post ..MicroBlog..." />
+            <marker date="1460294688785" expanded="true" signature="1113:1345" placeholder="..." />
+            <marker date="1460294688785" expanded="true" signature="1588:1614" placeholder="SELECT post ..MicroBlog..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tasks.php">
+    <entry file="file://$PROJECT_DIR$/public_html/tasks.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1054">
           <caret line="22" column="92" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
           <folding>
-            <element signature="e#1262#1303#0#PHP" expanded="true" />
-            <marker date="1460292577293" expanded="true" signature="1383:1599" placeholder="..." />
-            <marker date="1460292577293" expanded="true" signature="1806:1832" placeholder="SELECT post ..MicroBlog..." />
+            <element signature="e#1255#1296#0#PHP" expanded="true" />
+            <marker date="1460294538323" expanded="true" signature="1376:1592" placeholder="..." />
+            <marker date="1460294538323" expanded="true" signature="1799:1825" placeholder="SELECT post ..MicroBlog..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reports.php">
+    <entry file="file://$PROJECT_DIR$/public_html/reports.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="561">
           <caret line="7" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
@@ -339,7 +345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat.php">
+    <entry file="file://$PROJECT_DIR$/public_html/chat.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -347,7 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/postForm.php">
+    <entry file="file://$PROJECT_DIR$/public_html/postForm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="408">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
@@ -355,7 +361,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/public_html/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="765">
           <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
@@ -363,17 +369,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loginForm.php">
+    <entry file="file://$PROJECT_DIR$/public_html/loginForm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="476">
           <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
-            <marker date="1460279144726" expanded="true" signature="217:262" placeholder="SELECT * FRO..Credentials..." />
+            <marker date="1460294656095" expanded="true" signature="225:270" placeholder="SELECT * FRO..Credentials..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
+    <entry file="file://$PROJECT_DIR$/public_html/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1105">
           <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
@@ -381,42 +387,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meekrodb.2.3.class.php">
+    <entry file="file://$PROJECT_DIR$/public_html/library/meekrodb.2.3.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16099">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/pure/pure.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="25177">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/pure/pure-min.css">
+    <entry file="file://$PROJECT_DIR$/public_html/library/pure-min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
+    <entry file="file://$PROJECT_DIR$/public_html/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
           <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactForm.php">
+    <entry file="file://$PROJECT_DIR$/public_html/contactForm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.040621266" vertical-offset="0" max-vertical-offset="837">
           <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
+    <entry file="file://$PROJECT_DIR$/public_html/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1105">
           <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
@@ -424,24 +427,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/public_html/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4874552" vertical-offset="0" max-vertical-offset="837">
           <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loginForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="476">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <marker date="1460279144726" expanded="true" signature="217:262" placeholder="SELECT * FRO..Credentials..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/public_html/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="765">
           <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
@@ -449,50 +443,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/postForm.php">
+    <entry file="file://$PROJECT_DIR$/public_html/loginForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="408">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="969">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="476">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
-            <marker date="1460283129201" expanded="true" signature="1120:1352" placeholder="..." />
-            <marker date="1460283129201" expanded="true" signature="1587:1613" placeholder="SELECT post ..MicroBlog..." />
+            <marker date="1460294656095" expanded="true" signature="225:270" placeholder="SELECT * FRO..Credentials..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tasks.php">
+    <entry file="file://$PROJECT_DIR$/public_html/postForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1054">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="408">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/chat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="561">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="561">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/tasks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0384617" vertical-offset="217" max-vertical-offset="1054">
           <caret line="22" column="92" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
           <folding>
-            <element signature="e#1262#1303#0#PHP" expanded="true" />
-            <marker date="1460292577293" expanded="true" signature="1383:1599" placeholder="..." />
-            <marker date="1460292577293" expanded="true" signature="1806:1832" placeholder="SELECT post ..MicroBlog..." />
+            <element signature="e#1255#1296#0#PHP" expanded="true" />
+            <marker date="1460294538323" expanded="true" signature="1376:1592" placeholder="..." />
+            <marker date="1460294538323" expanded="true" signature="1799:1825" placeholder="SELECT post ..MicroBlog..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reports.php">
+    <entry file="file://$PROJECT_DIR$/public_html/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="561">
-          <caret line="7" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46714458" vertical-offset="0" max-vertical-offset="837">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="0.61409795" vertical-offset="132" max-vertical-offset="969">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <marker date="1460294688785" expanded="true" signature="1113:1345" placeholder="..." />
+            <marker date="1460294688785" expanded="true" signature="1588:1614" placeholder="SELECT post ..MicroBlog..." />
+          </folding>
         </state>
       </provider>
     </entry>

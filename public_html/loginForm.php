@@ -3,7 +3,7 @@
 session_start();
 ob_start();
 
-require_once 'meekrodb.2.3.class.php';
+require_once 'library/meekrodb.2.3.class.php';
 DB::$user = 'roy';
 DB::$dbName = "MicroBlog";
 
