@@ -20,7 +20,7 @@ if (!isset($_SESSION['loggedin'])) {
             <li class="pure-menu-item"><a href="tasks.php" class="pure-menu-link">Taken</a></li>
             <li class="pure-menu-item"><a href="reports.php" class="pure-menu-link">Verslagen</a></li>
             <li class="pure-menu-item"><a href="chat.php" class="pure-menu-link pure-menu-selected">Chat</a></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" href="logout.php">Uitloggen</a></li>
+	        <li class="pure-menu-item"><a class="pure-menu-link" href="logout.php"> <?php echo '['.$_SESSION['username'].']' ?> Uitloggen</a></li>
         </ul>
     </div>
 </div>
