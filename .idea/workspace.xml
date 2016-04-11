@@ -28,41 +28,28 @@
       <file leaf-file-name="tasks.php" pinned="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public_html/tasks.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.3568216" vertical-offset="918" max-vertical-offset="1649">
-              <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.5097451" vertical-offset="901" max-vertical-offset="1649">
+              <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
               <folding>
-                <marker date="1460363359648" expanded="true" signature="512:551" placeholder="SELECT * FRO..users..." />
-                <marker date="1460363359648" expanded="true" signature="607:616" placeholder="SELECT * fro..." />
-                <marker date="1460363359648" expanded="true" signature="607:654" placeholder="SELECT * FRO..link_user_task..." />
-                <marker date="1460363359648" expanded="true" signature="687:696" placeholder="SELECT * fro..." />
-                <marker date="1460363359648" expanded="true" signature="687:723" placeholder="SELECT * FRO..tasks..." />
-                <marker date="1460363359648" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
-                <marker date="1460363359648" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
-                <marker date="1460363359648" expanded="true" signature="687:788" placeholder="SELECT * FRO..tasks..." />
-                <marker date="1460363359648" expanded="true" signature="693:696" placeholder="select * fro..." />
-                <marker date="1460363359648" expanded="true" signature="1337:1787" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="1383:1787" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="1413:1787" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="1913:1930" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="1931:2109" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="1961:2101" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="2147:2498" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="2187:2498" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="2401:2498" placeholder="..." />
-                <marker date="1460363359648" expanded="true" signature="2629:2639" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="completeTask.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/completeTask.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <marker date="1460363402684" expanded="true" signature="111:144" placeholder="SELECT * FRO..tasks..." />
-                <marker date="1460363402684" expanded="true" signature="205:249" placeholder="UPDATE tasks..." />
+                <marker date="1460363602971" expanded="true" signature="512:551" placeholder="SELECT * FRO..users..." />
+                <marker date="1460363602971" expanded="true" signature="607:616" placeholder="SELECT * fro..." />
+                <marker date="1460363602971" expanded="true" signature="607:654" placeholder="SELECT * FRO..link_user_task..." />
+                <marker date="1460363602971" expanded="true" signature="687:696" placeholder="SELECT * fro..." />
+                <marker date="1460363602971" expanded="true" signature="687:723" placeholder="SELECT * FRO..tasks..." />
+                <marker date="1460363602971" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
+                <marker date="1460363602971" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
+                <marker date="1460363602971" expanded="true" signature="687:788" placeholder="SELECT * FRO..tasks..." />
+                <marker date="1460363602971" expanded="true" signature="693:696" placeholder="select * fro..." />
+                <marker date="1460363602971" expanded="true" signature="1337:1787" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="1383:1787" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="1413:1787" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="1913:1930" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="1931:2109" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="1961:2101" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="2147:2498" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="2187:2498" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="2401:2498" placeholder="..." />
+                <marker date="1460363602971" expanded="true" signature="2629:2639" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -117,8 +104,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1160" max-vertical-offset="2176">
-              <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1466" max-vertical-offset="2176">
+              <caret line="96" column="23" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -158,18 +145,18 @@
         <option value="$PROJECT_DIR$/public_html/reports.php" />
         <option value="$PROJECT_DIR$/public_html/chat.php" />
         <option value="$PROJECT_DIR$/public_html/createTask.php" />
-        <option value="$PROJECT_DIR$/public_html/createTaskForm.php" />
-        <option value="$PROJECT_DIR$/public_html/css/style.css" />
         <option value="$PROJECT_DIR$/public_html/openTask.php" />
-        <option value="$PROJECT_DIR$/public_html/tasks.php" />
         <option value="$PROJECT_DIR$/public_html/completeTask.php" />
+        <option value="$PROJECT_DIR$/public_html/tasks.php" />
+        <option value="$PROJECT_DIR$/public_html/css/style.css" />
+        <option value="$PROJECT_DIR$/public_html/createTaskForm.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="145" />
-    <option name="y" value="122" />
+    <option name="x" value="178" />
+    <option name="y" value="124" />
     <option name="width" value="1546" />
     <option name="height" value="830" />
   </component>
@@ -309,7 +296,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="145" y="122" width="1546" height="830" extended-state="0" />
+    <frame x="178" y="124" width="1546" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -369,25 +356,25 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1054">
           <caret line="22" column="92" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
           <folding>
-            <marker date="1460363359648" expanded="true" signature="512:551" placeholder="SELECT * FRO..users..." />
-            <marker date="1460363359648" expanded="true" signature="607:616" placeholder="SELECT * fro..." />
-            <marker date="1460363359648" expanded="true" signature="607:654" placeholder="SELECT * FRO..link_user_task..." />
-            <marker date="1460363359648" expanded="true" signature="687:696" placeholder="SELECT * fro..." />
-            <marker date="1460363359648" expanded="true" signature="687:723" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363359648" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363359648" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363359648" expanded="true" signature="687:788" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363359648" expanded="true" signature="693:696" placeholder="select * fro..." />
-            <marker date="1460363359648" expanded="true" signature="1337:1787" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1383:1787" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1413:1787" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1913:1930" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1931:2109" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1961:2101" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="2147:2498" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="2187:2498" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="2401:2498" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="2629:2639" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="512:551" placeholder="SELECT * FRO..users..." />
+            <marker date="1460363602971" expanded="true" signature="607:616" placeholder="SELECT * fro..." />
+            <marker date="1460363602971" expanded="true" signature="607:654" placeholder="SELECT * FRO..link_user_task..." />
+            <marker date="1460363602971" expanded="true" signature="687:696" placeholder="SELECT * fro..." />
+            <marker date="1460363602971" expanded="true" signature="687:723" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363602971" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363602971" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363602971" expanded="true" signature="687:788" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363602971" expanded="true" signature="693:696" placeholder="select * fro..." />
+            <marker date="1460363602971" expanded="true" signature="1337:1787" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1383:1787" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1413:1787" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1913:1930" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1931:2109" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1961:2101" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="2147:2498" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="2187:2498" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="2401:2498" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="2629:2639" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -542,26 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/createTaskForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4587706" vertical-offset="0" max-vertical-offset="667">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <marker date="1460359444537" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/createTask.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.994003" vertical-offset="0" max-vertical-offset="884">
-          <caret line="39" column="69" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
-          <folding>
-            <marker date="1460313503967" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/newUserForm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52923536" vertical-offset="4" max-vertical-offset="697">
@@ -584,14 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1160" max-vertical-offset="2176">
-          <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/chat.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="561">
@@ -611,41 +570,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/createTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.153847" vertical-offset="217" max-vertical-offset="884">
+          <caret line="39" column="69" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
+          <folding>
+            <marker date="1460313503967" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1466" max-vertical-offset="2176">
+          <caret line="96" column="23" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/completeTask.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1460363402684" expanded="true" signature="111:144" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363402684" expanded="true" signature="205:249" placeholder="UPDATE tasks..." />
+            <marker date="1460363402684" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363402684" expanded="true" signature="-1:-1" placeholder="UPDATE tasks..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/createTaskForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53523237" vertical-offset="0" max-vertical-offset="667">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1460365166692" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/tasks.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3568216" vertical-offset="918" max-vertical-offset="1649">
-          <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.5097451" vertical-offset="901" max-vertical-offset="1649">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
           <folding>
-            <marker date="1460363359648" expanded="true" signature="512:551" placeholder="SELECT * FRO..users..." />
-            <marker date="1460363359648" expanded="true" signature="607:616" placeholder="SELECT * fro..." />
-            <marker date="1460363359648" expanded="true" signature="607:654" placeholder="SELECT * FRO..link_user_task..." />
-            <marker date="1460363359648" expanded="true" signature="687:696" placeholder="SELECT * fro..." />
-            <marker date="1460363359648" expanded="true" signature="687:723" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363359648" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363359648" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363359648" expanded="true" signature="687:788" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1460363359648" expanded="true" signature="693:696" placeholder="select * fro..." />
-            <marker date="1460363359648" expanded="true" signature="1337:1787" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1383:1787" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1413:1787" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1913:1930" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1931:2109" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="1961:2101" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="2147:2498" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="2187:2498" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="2401:2498" placeholder="..." />
-            <marker date="1460363359648" expanded="true" signature="2629:2639" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="512:551" placeholder="SELECT * FRO..users..." />
+            <marker date="1460363602971" expanded="true" signature="607:616" placeholder="SELECT * fro..." />
+            <marker date="1460363602971" expanded="true" signature="607:654" placeholder="SELECT * FRO..link_user_task..." />
+            <marker date="1460363602971" expanded="true" signature="687:696" placeholder="SELECT * fro..." />
+            <marker date="1460363602971" expanded="true" signature="687:723" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363602971" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363602971" expanded="true" signature="687:750" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363602971" expanded="true" signature="687:788" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1460363602971" expanded="true" signature="693:696" placeholder="select * fro..." />
+            <marker date="1460363602971" expanded="true" signature="1337:1787" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1383:1787" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1413:1787" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1913:1930" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1931:2109" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="1961:2101" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="2147:2498" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="2187:2498" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="2401:2498" placeholder="..." />
+            <marker date="1460363602971" expanded="true" signature="2629:2639" placeholder="..." />
           </folding>
         </state>
       </provider>

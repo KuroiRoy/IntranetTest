@@ -112,8 +112,8 @@ form .pure-button {
 }
 
 .task-sidebar-item {
-    height: 100px;
     padding-left: 10px;
+    padding-bottom: 10px;
 }
 
 .create-task-button {
