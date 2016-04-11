@@ -75,7 +75,7 @@ $tasks = DB::query('SELECT * FROM tasks task INNER JOIN link_user_task link ON t
 					foreach ($tasks as $task) {
 						?>
 							<li class="pure-menu-item task-sidebar-item">
-								<button type="button" onclick="openTask( <?php echo $task['id'] ?> )"> <?php echo $task['name'] ?> </button>
+								<button class="task-sidebar-button" type="button" onclick="openTask( <?php echo $task['id'] ?> )"> <?php echo $task['name'] ?> </button>
 							</li>
 						<?php
 					}

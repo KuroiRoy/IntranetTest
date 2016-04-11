@@ -88,14 +88,12 @@ form .pure-button {
 .task-title {
     text-align: center;
     padding-top: 18px;
-    /*margin-left: 10px;*/
-    /*margin-right: 10px;*/
-    /*border-bottom: solid lightgray;*/
 }
 
 .task-description {
     padding-left: 30px;
     padding-right: 30px;
+    min-height: 200px;
 }
 
 .task-checkbox {
@@ -103,7 +101,7 @@ form .pure-button {
 }
 
 .task-checkbox label {
-    /*padding-right: 10px;*/
+
 }
 
 .task-sidebar {
@@ -114,6 +112,18 @@ form .pure-button {
 .task-sidebar-item {
     padding-left: 10px;
     padding-bottom: 10px;
+}
+
+.task-sidebar-button {
+    background-color: #d6d5d7;
+    border: none;
+    width: 100%;
+    min-height: 60px;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .create-task-button {
